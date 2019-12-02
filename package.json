@@ -1,0 +1,16 @@
+{
+  "name": "github_deploy_and_domain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deplay": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://ja-br.github.io/testsite"
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
